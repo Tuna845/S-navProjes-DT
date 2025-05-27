@@ -1,1 +1,1 @@
-# S-navProjes-DT
+# NTP_Sınav_Projesı
